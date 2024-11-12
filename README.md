@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumarmuppuri&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumarmuppuri" /> </p>
 
-- 🔭 I’m currently interning at **PrepInsta**
-
-- 🌱 I’m currently learning **Python Full Stack**
+- 🔭 I have completed an internship at **PrepInsta**.
+  
+- 🌱 I’m currently learning **Dot Net**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, PostgreSQL**
 
