@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Muppuri Pavan Kumar</h1>
-<h3 align="center">A passionate fullstack developer from Hyderabad</h3>
+<h3 align="center">A passionate Data Analyst from Hyderabad</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumarmuppuri&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumarmuppuri" /> </p>
 
-- 🔭 I have completed an internship at **PrepInsta**.
+- 🔭 I am working at **CamelQ Software Solutions**.
   
-- 🌱 I’m currently learning **Dot Net**
+- 🌱 I’m currently learning **Power BI**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, PostgreSQL**
+- 💬 Ask me about **Power BI, Excel, Python, PostgreSQL**
 
 - 📫 How to reach me **muppuripavankumar@gmail.com**
 
